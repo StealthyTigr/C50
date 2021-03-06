@@ -1,0 +1,34 @@
+body{
+    text-align: center ; 
+}
+h1{
+    font-size : 40px ; 
+    font-weight:300 ; 
+    font-family :sans-serif ; 
+}
+#app{
+    margin : 20px ; 
+    background-color : lemonchiffon; 
+}
+iframe{
+    margin-right: 60px ; 
+}
+img{
+    transition: transform .2s ; 
+}
+#game{
+    background-color :ivory; 
+    height  : 550px ; 
+}
+mouse:hover{
+    
+}
+#chatbot{
+    background-color :beige ; 
+}
+.line{
+    height: 10px ;
+    margin :8px auto ; 
+    width : 90px;
+    background-color : black ; 
+}
